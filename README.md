@@ -7,7 +7,7 @@ This repository provides a streamlined solution for deploying large-scale privat
 
 ## Key Features
 - **Simple Installation**: Easy-to-use installation scripts to consolidate the OS, networking, and software stack for seamless deployment.
-- **Distributed Training or Distributed Inference**: Can run both ML/AI/LLM workloads on the  ecosystem
+- **Distributed Training or Distributed Inference**: Can run both Training/Inference ML/AI/LLM workloads on the  ecosystem
 - **Performance Test Tools/Custom Containers**: Perform basic performance tests on the compute and networking fabric.
 - **Kubernetes Integration**: Leverage Kubernetes for scalable orchestration of AI workloads across multiple nodes.
 - **NVIDIA GPU Support**: Optimized for hardware acceleration with NVIDIA GPUs, enhancing performance for AI/ML models.
