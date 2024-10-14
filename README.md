@@ -15,6 +15,7 @@ This repository provides a streamlined solution for deploying large-scale privat
 ## Core Components
 - x86/64 with Ubuntu
 - NVIDIA GPUs
+- Container Ecosystem
 - Kubernetes
 - NVIDIA GPU Operator
 - NVIDIA Network Operator
@@ -27,7 +28,6 @@ This repository provides a streamlined solution for deploying large-scale privat
 - RoCEv2
 - MPI
 - LWS
-- Container Ecosystem
 - IBPerf
 - NCCL Tests
 - Low-level monitoring with Intel PCM
