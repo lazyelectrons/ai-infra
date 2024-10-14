@@ -1,9 +1,13 @@
+# Work In Progress
+
+> **This document is a placeholder, as we are testing the infra on distributed inference/training. Stay tuned for updates**
 # Simplified Deployment of Private AI Infrastructure with x86 Compute, Kubernetes, and NVIDIA GPUs
 
-This repository provides a streamlined solution for deploying large-scale private AI infrastructure using x86 architecture, Kubernetes, and NVIDIA GPUs. It is designed for developers, researchers, and organizations looking to efficiently set up and manage AI workloads on their own infrastructure.
+This repository provides a streamlined solution for deploying large-scale private AI infrastructure using x86 architecture, Kubernetes, and NVIDIA GPUs. It is designed for developers, researchers, and organizations looking to efficiently set up and manage AI infrastructure on Nvidia GPUs and Ethernet/RoCE Fabric. 
 
 ## Key Features
 - **Simple Installation**: Easy-to-use installation scripts to consolidate the OS, networking, and software stack for seamless deployment.
+- **Distributed Training or Distributed Inference**: Can run both ML/AI/LLM workloads on the  ecosystem
 - **Performance Test Tools/Custom Containers**: Perform basic performance tests on the compute and networking fabric.
 - **Kubernetes Integration**: Leverage Kubernetes for scalable orchestration of AI workloads across multiple nodes.
 - **NVIDIA GPU Support**: Optimized for hardware acceleration with NVIDIA GPUs, enhancing performance for AI/ML models.
